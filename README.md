@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quangdaotran
-- 🌱 I’m a recent graduate with a MS with distinction in Business Analytics
-- 💞️ I’m looking for job and internship opportunities as data analyst, data scientist
+- 🌱 I received my MS in Business Analytics from Adelphi University.
+- 💞️ Right now, I'm doing my PhD in Computer Science at University of Nevada, Reno.
 - 📫 Reach me through email: tquangdao0711@gmail.com
 
 <!---
